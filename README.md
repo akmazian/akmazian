@@ -4,7 +4,7 @@
 
 🧸 Anyways, I'm a freshman @ UC Berkeley studying Molecular and Cell Biology: Genetics, Genomics, Evolution, and Development with a double major in Data Science on the Computational Methods for Molecular and Genomic Biology emphasis. Go Bears!
 
-🚀 The primary projects I am working on are UW Design Hub and Calavender (sort-of?)
+🚀 The primary projects I am working on are UW Design Hub, Berkeley 101, and Calavender (sort-of?)
 
 🛰️ My friend said I should do it so here are all the dev tools in my toolbox: some SwiftUI, CS61A-level Python, Data8-level NumPy, some React.js, some Gatsby.js, some broken Node.js, some broken Java, some Sketch & Figma, and a little bit of Unix command line.
 <!-- 

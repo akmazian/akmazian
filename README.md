@@ -8,11 +8,13 @@
 
 🛰️ My friend said I should do it so here are all the dev tools in my toolbox: Typescript + React, Java, Python, NumPy, PyTorch, and a bunch of other stuff.
 
-<!-- 
+
 ✨ While we are at it, here are some classes I have taken: 
-- Math: AP Calculus BC 5, Math 53 equivalent, Math 54 equivalent
-- CS: 61A, C88C, 61B
+
+- Math: 53, 54
+- CS: 61A, C88C, 61B, 70
 - Data: C8, C100
-- Chem: 3A, 3B
+- Chem: 3A, 3B, 3AL
 - Physics: 8A
-- MCB: 140, C100A, 140L -->
+- MCB: 140, C100A, 140L, 149, 198
+- BioE: 134

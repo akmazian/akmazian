@@ -1,8 +1,8 @@
-👋 Hi guys, akmazian here, welcome to my space station (nerdy vibez). 
+👋 Hi guys, akmazian here, welcome to my space station(?).
 
 🪐 Just so y'all knows, the name is stolen from a beloved character and space pirate from PLANETM's [EOS 10](https://planetm.io/eos10/). Go listen to the pod-show!
 
-🧸 Anyways, I'm a rising-sophomore @ UC Berkeley studying Molecular and Cell Biology: Genetics, Genomics, Evolution, and Development with a double major in Data Science on the Computational Methods for Molecular and Genomic Biology emphasis. Go Bears!
+🧸 Anyways, I'm a sophomore @ UC Berkeley studying Molecular and Cell Biology: Genetics, Genomics, Evolution, and Development with a double major in Data Science on the Computational Methods for Molecular and Genomic Biology emphasis. Go Bears!
 
 🚀 The primary projects I am working on are CalCourse (Full Stack) and the website for Lavender Alliance @ Berkeley (Design & Frontend).
 
@@ -12,9 +12,9 @@
 ✨ While we are at it, here are some classes I have taken: 
 
 - Math: 53, 54
-- CS: 61A, C88C, 61B, 70
+- CS: 61A, 61B, 70
 - Data: C8, C100
 - Chem: 3A, 3B, 3AL
 - Physics: 8A
 - MCB: 140, C100A, 140L, 149, 198
-- BioE: 134
+- BioE: 134, 149

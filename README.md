@@ -11,10 +11,8 @@
 
 ✨ While we are at it, here are some classes I have taken: 
 
-- Math: 53, 54
-- CS: 61A, 61B, 70
-- Data: C8, C100
-- Chem: 3A, 3B, 3AL
-- Physics: 8A
-- MCB: 140, C100A, 140L, 149, 198
-- BioE: 134, 149
+- Math: Linear Algebra & Differential Equations, Multivariable Calculus & Analytical Geometry.
+- CS: Programming Structure, Data Structure
+- MCB: Biophysical Chemistry, Molecular Biology, General Genetics, General Genetics Lab, the Human Genome, Flow Cytometry, Advanced Genetic Analysis
+- IB: Quantitative Biology
+- BioE: Genetic Design Automation, Machine Learning for Biology, Computational Functional Genomics

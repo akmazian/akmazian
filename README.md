@@ -4,10 +4,9 @@
 
 🧸 Anyways, I'm a sophomore @ UC Berkeley studying Molecular and Cell Biology: Genetics, Genomics, Evolution, and Development with a double major in Data Science on the Computational Methods for Molecular and Genomic Biology emphasis. Go Bears!
 
-🚀 The primary projects I am working on are CalCourse (Full Stack) and the website for Lavender Alliance @ Berkeley (Design & Frontend).
+🚀 Recently I am working on are Got10IN and the zotero revamp Azotero.
 
-🛰️ My friend said I should do it so here are all the dev tools in my toolbox: Typescript + React, Java, Python, NumPy, PyTorch, and a bunch of other stuff.
-
+🛰️ My friend said I should do it so here are all the dev tools in my toolbox: Typescript + React, Java, Python, and SQL.
 
 ✨ While we are at it, here are some classes I have taken: 
 
